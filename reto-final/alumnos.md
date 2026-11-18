@@ -5,3 +5,5 @@ Agrega tu fila **al final de la tabla**. Instrucciones en el [README del reto](R
 | Nombre | Usuario de GitHub | Grupo | Fecha |
 |---|---|---|---|
 | Nombre de Ejemplo | [@usuario-ejemplo](https://github.com/usuario-ejemplo) | IRIC-000 | 2026-11-11 |
+
+| Fer Calixto | [@xeniacalixto8-hue](https://github.com/xeniacalixto8-hue) | IRIC911V | 2026-11-17 |
